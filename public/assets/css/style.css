@@ -1,0 +1,14 @@
+.col-12 {
+  margin-bottom: 50px;
+  border: 2px solid gold;
+  background-color: #eee;
+  box-shadow: 2px 2px 5px orange;
+  font-family: roboto;
+  padding: 24px;
+}
+
+h1 {
+  color: firebrick;
+  text-decoration: underline;
+}
+/*# sourceMappingURL=../maps/style.css.map */
