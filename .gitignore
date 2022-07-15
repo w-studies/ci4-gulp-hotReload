@@ -123,3 +123,4 @@ nb-configuration.xml
 /.phpunit.*.cache
 
 node_modules/
+*/assets/maps

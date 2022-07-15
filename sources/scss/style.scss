@@ -2,9 +2,19 @@
   margin-bottom: 50px;
   border: 2px solid gold;
   background-color: #eee;
-  box-shadow: 2px 2px 5px orange;
+  box-shadow: 2px 2px 5px 5px red;
   font-family: roboto;
   padding: 24px;
+  .card {
+    background-color: yellow;
+    p {
+      background: #fff;
+      &:last-child {
+        background-color: green;
+        color: #fff;
+      }
+    }
+  }
 }
 
 h1 {
